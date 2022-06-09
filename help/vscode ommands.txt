@@ -1,0 +1,15 @@
+
+
+  VS Code Extention Commands:
+  ===========================
+
+
+ Prettier - Code formatter Command is  Alt+Shift+F
+ VS Code Built-In Terminal On/Off   Ctrl+
+ VS Code Commands & Extensions Commands Ctrl+Shift+P
+ VS Code File Listing Command Ctrl+P
+ VS Code File Data Searching Ctrl+Shift+F
+ VS Code Line or MultiLine Clone Alt+Shift+DownArrow
+ VS Code MultiLine Multi Cursor Editing Alt+Click  & Esc for end editing
+ VS Code Line or MultiLine Language Specific Comment Ctrl+/ Select Text and Use Ctrl+/ to toggle Comments
+ 

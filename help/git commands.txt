@@ -1,0 +1,63 @@
+Git Settings
+==============================
+https://www.youtube.com/watch?v=HGfT8JFkC2I
+
+RESET GIT
+=========
+git config --global --unset user.name
+git config --global --unset user.email
+git config --global --unset credential.helper
+cmdkey /delete:LegacyGeneric:target=git:https://github.com
+git config --global user.name “sharjeelhassan”
+git config --global user.email "sharjeel_hassan@hotmail.com"
+git config -l (List All Config Settings)
+
+CLONE EXISTING REMOTE REPO AND START WORKING ON IT
+==================================================
+git clone https://github.com/sharjeelhassan/pacific.git
+Start Coding in this repo
+
+REPO CREATE LOCALLY AND LINK TO REMOTE REPO
+===========================================
+git init  (create new local repo)
+
+git config  credential.helper ‘store’      (will ask your password once and store)
+
+git add README.md   (optional)
+git add .   (Stage)
+git commit -m “message”  (Commit)
+Create New Branch git branch -m main   (optional list, create, or delete branches - default master/main)
+git remote add origin https://github.com/sharjeelhassan/pacific.git   (Link to Remote Repo)
+git remote -v
+git push -u origin master  (Push)
+
+It will ask for credentials put
+username: sharjeelhassan
+password: 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     (Personal Access Token)
+
+################################## Important ########################################
+User/Pass no Longer Supported use Personal Access Token Based Auth instead
+github.com top right corner avatar-->settings-->Developer Settings-->personal access token
+generate new token and give power to it
+https://www.youtube.com/watch?v=kHkQnuYzwoo
+Issue: on every git command im sending username/password accross the wire, it can be dangerous
+Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+for more information.
+https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
+#####################################################################################
+
+How to reset git settings
+How to reset config in git
+How to reset git config username
+How to reset git configurations
+How to reset git configurations
+How to reset git password,
+How to reset GitHub repository
+How to reset GitHub account,
+How to reset git credentials in terminal
+Easiest way to reset git config file
+GitHub authentication failed
+git credential manager for windows
+git credential helper
+GitHub authentication
+git credential reset mac

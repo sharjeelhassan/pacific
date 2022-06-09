@@ -1,0 +1,54 @@
+JavaScript Introduction (Behavior)
+•	Most Widely Used, Most Loved, Most Hated & Most Confusing
+•	Browser Language
+•	Browser: Run Inside Browser Outer Env Browser then OS
+•	NodeJs: Run Outside Browser Outer Env OS 
+•	ES5/2009 concepts where all confusion resides
+•	Before ES5/2009 all versions are Abandoned
+
+JavaScript Core Advanced Weird Concepts 
+•	First Understand What is happening inside JS Core Engine
+•	JavaScript Execution Environment
+•	Execution Context, Call Stack
+•	Google V8 Engine Architecture
+•	Advanced JavaScript Concepts (Execution Context, Hoisting, undefined vs not defined, How Functions Work in JS, First Class Functions, High Order Functions, Functional Programming in JS, Anonymous Functions, Callback Functions, Event Listeners, this Keyword, Scope Chain, Temporal Dead Zone, Block Scope and Shadowing in JS, Closures, setTimeout, Async JS, Event Loop, Prototypes and Prototypal Inheritance) 
+
+
+JavaScript Language Fundamentals ES5
+•	After Understanding JS core we can understand JS without confusion
+•	Introduction to JavaScript Language
+•	Setup Development Environment
+•	Basics (variables, constants, primitive types, objects, arrays, functions, function types)
+•	Truthy and Falsy Concept
+•	Operators (arithmetic, assignment, comparison, equality, ternary, logical, bitwise, operator precedence)
+•	Control Structure (if/else, switch/case, for for-in for-of while do-while loops, break/continue)
+•	Document Object Model (DOM), Browser Object Model (BOM)
+•	Dom Manipulation
+•	JavaScript Events & Event Handlers
+
+
+JavaScript Modern ECMAScript Concepts
+•	ES2015/ES6, ES2016/ES7, ES2017/ES8, ES2018/ES9, ES2019/ES10, ES2020/ES11, ES2021/ES12, ES.Next
+•	Modern JS Features Introduced in Each Edition
+•	Trying to behave like a normal language by eliminating ES5 confusions
+•	ES6 to ES.Next using the same Memory Architecture as ES5
+
+
+
+JavaScript Data Structures & Algorithms
+•	Arrays, Ques, Stacks, Lists, LinkedLists, Dictionaries
+•	Algorithms 
+•	Best Patterns & Practices 
+•	Complex Problem Solving Skills
+
+
+JavaScript Small Tech Companies Interview Topics
+•	JavaScript Language Fundamentals
+•	ES5 upto ES.Next Features
+•	DOM Manipulation
+•	Testing and Debugging using Chrome Developer Tools
+
+
+JavaScript Big Tech Companies FAANG Interview Topics
+•	JavaScript Core Concepts, Data Structures & Algorithms
+•	Develop Complex Problem Solving Skills
